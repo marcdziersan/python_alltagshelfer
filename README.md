@@ -1,4 +1,4 @@
-# Alltagshelfer - Täglicher Aufgabenmanager
+# First steps mit Python - Alltagshelfer - Täglicher Aufgabenmanager
 
 ## Beschreibung
 Der Alltagshelfer ist eine Python-Anwendung mit Tkinter-GUI, die als täglicher Aufgabenmanager dient. Sie hilft Benutzern, Aufgaben zu verwalten, Erinnerungen zu setzen und tägliche Notizen zu speichern.
